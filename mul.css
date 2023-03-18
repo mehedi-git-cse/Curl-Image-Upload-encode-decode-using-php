@@ -1,0 +1,9 @@
+#blr1,#blr2{
+    display: none;
+}
+
+
+.show1{
+    display: block !important;
+
+}
